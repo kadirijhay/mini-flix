@@ -1,3 +1,3 @@
 # Miniflix
 
-A Mini Netflix App
+A Mini Netflix App built with Angular
